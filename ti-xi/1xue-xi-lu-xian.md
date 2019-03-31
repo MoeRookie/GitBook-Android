@@ -119,6 +119,27 @@ View的绘制原理、各种自定义View;
 - 了解系统核心机制;
 ```
 
+##### Activity启动模式和标记位
+
+```java
+Activity的启动模式以及异常情况下不同Activity的表现;
+```
+
+##### Service的启动和绑定状态
+
+```java
+Service的onBind和onReBind的关联;
+onServiceDisconnected(ComponentName className)和binderDied()的区别;
+```
+
+##### AsyncTask的版本演变
+
+```java
+AsyncTask在不同版本上的表现细节;
+```
+
+##### 以及线程池的细节和参数配置并熟悉设计模式、有架构意识 ;
+
 #### 接下来是系统核心机制
 
 ```java
@@ -135,6 +156,24 @@ View的绘制原理、各种自定义View;
 
 ```java
 了解主线程的消息循环模型;
+```
+
+##### AMS和PMS
+
+```java
+了解AMS和PMS的工作原理;
+```
+
+##### Window和View的关系
+
+```java
+能够回答问题”一个应用存在多少个Window;
+```
+
+##### 四大组件和AMS的交互
+
+```java
+了解四大组件的大概工作流程;
 ```
 
 #### 最后是琐碎的知识点
