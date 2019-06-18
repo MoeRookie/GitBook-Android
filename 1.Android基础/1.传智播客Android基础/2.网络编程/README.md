@@ -1,12 +1,8 @@
 ## 网络编程
 
-* ### 源码查看器
-* ### ScrollView的使用
-* ### 主线程的概念
-* ### handler的使用
-* ### 消息机制的原理
-* ### 使用handler完善案例
-* ### 图片查看器
+* ### HttpURLConnection类的使用
+* ### Handler - 消息机制
+* ### 练习 - 图片查看器
 * ### 对图片进行缓存
 * ### cache和filedir目录的区别
 * ### runinthread\_api介绍
