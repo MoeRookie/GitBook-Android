@@ -3,7 +3,6 @@
 * ### HttpURLConnection类的使用
 * ### Handler - 消息机制
 * ### 练习 - 图片查看器
-* ### 对图片进行缓存
 * ### cache和filedir目录的区别
 * ### runinthread\_api介绍
 * ### handler的API介绍
