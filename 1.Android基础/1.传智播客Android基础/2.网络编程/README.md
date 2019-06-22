@@ -4,7 +4,7 @@
 * ### Handler - 消息机制
 * ### 练习 - 图片查看器
 * ### cache和filedir目录的区别
-* ### runinthread\_api介绍
+* ### runOnUIThread介绍
 * ### handler的API介绍
 * ### 准备开饭客户端的内容
 * ### 去服务器获取数据的逻辑
