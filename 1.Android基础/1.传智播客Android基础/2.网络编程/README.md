@@ -5,7 +5,7 @@
 * ### 练习 - 图片查看器
 * ### cache和filedir目录的区别
 * ### runOnUIThread介绍
-* ### handler的API介绍
+* ### Handler的其他API
 * ### 准备开饭客户端的内容
 * ### 去服务器获取数据的逻辑
 * ### 解析xml封装数据
